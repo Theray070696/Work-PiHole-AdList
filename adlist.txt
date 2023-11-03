@@ -129,5 +129,13 @@ xhamster.com
 xvideos.com
 yahooligans.yahoo.com
 yiff.party
+*.wavebrowser.co/*
+*.wavebrowser.com
+*.anacdotes.xyz
+*.qagg.news
+*.onelaunch.com
+*.zip
+*.mov
+*.onion
 yip.su
 zbom.info
