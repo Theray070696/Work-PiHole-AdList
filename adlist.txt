@@ -129,7 +129,7 @@ xhamster.com
 xvideos.com
 yahooligans.yahoo.com
 yiff.party
-*.wavebrowser.co/*
+*.wavebrowser.co
 *.wavebrowser.com
 *.anacdotes.xyz
 *.qagg.news
