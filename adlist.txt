@@ -104,7 +104,6 @@ rsbuddy.com
 rule34.xxx
 runelite.net
 runescape.wiki
-*.runescape.wiki
 sankakucomplex.com
 schoolask.com
 securenotesapp.com
